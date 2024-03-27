@@ -1,0 +1,32 @@
+{
+    "jokes": [
+    {
+        "id": 1, 
+        "question": "what did the bee to say to the flower?",
+        "answer": "Hello Honey"
+    },
+    {
+        
+        "id": 2, 
+        "question": "why didn't the moon like the astronaut?",
+        "answer": "because he was invading his space"
+    },
+    {
+        
+        "id": 3, 
+        "question": "why are mushrooms great at parties?",
+        "answer": "because they are the fungi"
+    },
+    {
+        "id": 4, 
+        "question": "why don't Airline Pilots make good basketball Players?",
+        "answer": "because there always traveling"
+    },
+    {
+        "id": 5, 
+        "question": "How do you astronuats get a baby to sleep?",
+        "answer": "They Rocket"
+    }
+    ]
+
+}
